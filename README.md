@@ -1,7 +1,11 @@
 # sayhi
-Playing with GitHub Pull Requests (PR). Homework for 2021-03-16-tudelft-online Software Carpentry Git lesson.
+Playing with GitHub forks and Pull Requests (PR). Homework for 2021-03-16-tudelft-online Software Carpentry Git lesson.
 
-Playing with forks and pull requests. Fork this repo, clone, say hi in a new file, push and submit pull request from your GitHub accout.
+You can think of forking as a kind of `clone`, but between GitHub repos, and with GitHub being aware of a repo being forked, and where a frok "comes" from.
+
+# sort instructions
+
+In GitHub `fork` this repo, `clone` the forked repo (from your GitHub account) to your computer. There, add a new file named as by your GitHub username (so that you don't step on each other's foot) with a "hi!" message inside. `git add`, `commit` this new file in your local repo. Now `push` changes to your forked repo, and finally, from within GitHub interface of your forked repo, submit a pull request to this repo (iamc/sayhi).
 
 # step-by-step
 
