@@ -1,5 +1,5 @@
 # sayhi
-Playing with GitHub Pull Requests (PR)
+Playing with GitHub Pull Requests (PR). Homework for 2021-03-16-tudelft-online Software Carpentry Git lesson.
 
 Playing with forks and pull requests. Fork this repo, clone, say hi in a new file, push and submit pull request from your GitHub accout.
 
