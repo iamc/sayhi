@@ -9,6 +9,8 @@ In GitHub `fork` this repo, `clone` the forked repo (from your GitHub account) t
 
 # step-by-step
 
+The steps below correspond to the ones in the whiteboard sketch used the lesson.
+
 0. Check that you are logged in in GitHub
 1. Click the upper rigth `Fork` button. Af you do it you will be taken to your own account, to your forked repositry. Under the repository name (<YOUR_USERNAME>/sayhy), you will see the text: "Forked from iamc/sayhi".
 2. Go to your computer and `clone` YOUR fork (<YOUR_USERNAME>/sayhi) (green button, code clone, select https and copy-paste to your terminal)
