@@ -17,7 +17,7 @@ I'll 6) review your pull request and accept it.
 
 0. Sign in into your GitHub account and go to this repository https://github.com/iamc/sayhi .
 1. Click the upper rigth `Fork` button. As you do it you will be taken to your own account, to your `sayhi` forked repositry. Under the repository name (<YOUR_USERNAME>/sayhi), you will see the text: "Forked from iamc/sayhi".
-2. Go to your computer and `clone` YOUR fork (<YOUR_USERNAME>/sayhi) (green `<> Code` button, clone, select SSH and copy-paste to your terminal): `git clone git@github.com:<YOUR_SUERNAME>/saihi.git`.
+2. Go to your computer and `clone` YOUR fork (<YOUR_USERNAME>/sayhi) (green `<> Code` button, clone, select SSH and copy-paste to your terminal): `git clone git@github.com:<YOUR_USERNAME>/saihi.git`.
 3. Create a new file `<YOUR_USERNAME>.txt`, put some text in it, and `git add` and `commit` the file in your local repository.
 4. Push your local repo to GitHub remote repo with `git push origin main`.
 5. Now in GitHub web interface you will see something like "This branch is XX commits ahead of iamc:main.", and in the same "bar" the text `Contribute`. Click there and click the `Open pull request` button in the emerging window. Write the pull request message there and click the green button `Create pull request`.
